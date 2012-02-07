@@ -1,0 +1,4 @@
+Fri Jan 20 2012 David Greaves <david@dgreaves.com> - 0.0.1-1
+- Provide mer_verify_kernel_config and mer_verify_kernel_spec
+  The use of these scripts is required by the HA sample kernel
+  packaging
