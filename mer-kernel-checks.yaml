@@ -2,15 +2,16 @@ Name: mer-kernel-checks
 Summary: Mer kernel pre-build checks
 Description: Scripts to check kernel CONFIG_ values used by Mer
 
-Version: 0.0.1
+Version: 0.0.2
 Release: 1
 Group: Kernel/Linux Kernel
 License: GPLv2
+URL: https://github.com/lbt/mer-kernel-check/
 
 Configure: none
 
 Sources:
-    - mer-kernel-checks-%{version}.tar.gz
+    - mer-kernel-checks-%{version}.tar.bz2
 
 Files:
     - "%{_bindir}/*"
